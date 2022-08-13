@@ -1,4 +1,4 @@
-module qy_weixin
+module github.com/gudegg/qy_weixin
 
 go 1.18
 
